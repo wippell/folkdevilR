@@ -1,4 +1,4 @@
-# FolkDevilR — Simulate the Rise and Fall of Moral Panics
+# folkdevilR — Simulate the Rise and Fall of Moral Panics
 # ---------------------------------------------------------------------------
 # This script provides two interchangeable engines:
 #   1. A compartmental S‑P‑R model (Susceptible‑Panicked‑Recovered).
